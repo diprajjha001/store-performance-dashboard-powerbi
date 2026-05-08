@@ -96,6 +96,7 @@ Analyzes month-over-month product sales growth.
 ---
 
 # 📷 Dashboard Preview
+<img width="1235" height="694" alt="image" src="https://github.com/user-attachments/assets/ed317dcc-e91e-4f73-b182-eea4e8c82667" />
 
 ## Main Dashboard
 
